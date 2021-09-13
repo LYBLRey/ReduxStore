@@ -7,7 +7,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 - What problem does it solve?
-  I learned that Redux allows us to create a container which holds global states and that is called a "store" which allows us to have specialized features (which are recommended if you know your code will have multiple users in and out / need to load a lot of things, etc) BUT we will need to use a plain action to "dispatch" if we need to make an update to the store. Super cool stuff!
+  I learned that Redux allows us to create a container which holds global states and that is called a "store" which allows us to have specialized features (which are recommended if you know your code will have multiple users in and out / need to load a lot of things, etc) BUT we will need to use a plain action to "dispatch" if we need to make an update to the store. Also learning that Redux itself is a STANDALONE library and can be used anywhere; meaning that it could be used with any UI layer, super cool stuff! Love the evolution of technology because it's primarily meant to help things be "easier" / "clearer" / make more sense!
 
 ## Table of Contents (Optional)
 
