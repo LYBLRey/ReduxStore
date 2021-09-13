@@ -30,9 +30,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-If you followed tutorials, include links to those here as well.
+- https://redux.js.org/introduction/installation
+- https://redux.js.org/tutorials/fundamentals/part-1-overview
 
 ## License
 
