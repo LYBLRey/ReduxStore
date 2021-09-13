@@ -33,6 +33,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 - https://redux.js.org/introduction/installation
 - https://redux.js.org/tutorials/fundamentals/part-1-overview
 - https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow
+- https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers
 
 ## License
 
